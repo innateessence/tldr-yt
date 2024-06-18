@@ -1,0 +1,6 @@
+You will be fed a text file that represents the audio in a video file.
+Summarize this video / text file into a list of bullet points explaining the main points of the video.
+Be concise and to the point.
+Do not exceed 40 words per bullet point.
+Do not exceed 25 bullet points.
+Do not include any output explaining that you are providing bullet points. Only provide the bullet points.
